@@ -1,6 +1,9 @@
 Assignment Title: QSAR Data Curation Using ChEMBL
+
 Selected target name: Breast cancer type 1 susceptibility protein (BRCA1)
+
 Number of bioactivity records: 21
+
 short description of workflow:
 
 Bioactivity data for Breast cancer type 1 susceptibility protein (BRCA1) were retrieved from the ChEMBL database using the chembl_webresource_client within a Google Colab environment. Google Drive was mounted to enable persistent data storage and file organization across sessions.
